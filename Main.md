@@ -1,1 +1,71 @@
+Comprehensive Exam Review
 
+Questions
+- Q1
+    - If this register file can store 56 registers with 2 bytes of data in each register, how many bits are needed for the **Read Data 1** port
+        - 
+- Q2
+    - What is the decimal representation of the binary number 01101011?
+        - 107
+- Q3
+    - Imagine a Base-13 number system, where the numbers range from 0 - C. What would the number 27 look like in this system?
+        - 21
+        - (for the exam must understand conversions across arbitrary number systems)
+- Q4
+    - the binary number 111000101110010101010101100011011 is __
+        - odd
+        - (just look at the least significant bit)
+- Q5
+    - What is the decimal number 67 converted to binary? (unsigned representation)
+        - 100011
+- Q6
+    - What is the decimal value of the binary number 1111 (signed representation)
+        - -1
+- Q7
+    - Which expression best describes this circuit? (ss1)
+        - (A + !B + D) * !(!A + B + C) * (B + C + D)
+- Q8
+    - Simplify the following boolean algebra equation: **((A + B) * (!A * !B)) * !(!(!A * !B) + !(A * B)**
+        - 0
+- Q9
+    - Simplify the following boolean algebra equation: **!(!A + B) * !(A + B)**
+        - 0 
+- Q10
+    - What logic gate does this represent? (ss2)
+        - XOR
+- Q11
+    - What logic gate does this represent? (ss3)
+        - NAND
+- Q12
+    - Which of the following are level-triggered, meaning data is loaded in while the clock is high (1)?
+        - SR Latch and D Latch
+- Q13
+    - If this register file can store 56 registers, with 2 bytes of data in each register, how many bits are needed for the **Write Register** port? (ss4)
+        - 6
+- Q14
+    - If this register file can store 56 registers, with 2 bytes of data in each register, how many bits are needed for the **Write Data** port?
+        - 16
+- Q15
+    - If this register file can store 56 registers, with 2 bytes of data in each register, how many bits are needed for the **Read Data 1** port?
+        - 16
+- Q16
+    - Which of the following is combinational logic?
+        - Multiplexer
+- Q17
+    - How many ASCII characters can be stored in a 32-bit word?
+        - 4
+- Q18
+    - What is the advantage of using floating-point representation over fixed-point representation?
+        - Floating point numbera can cover a wider range of values
+- Q19 
+    - What is the result of performing the bitwise XOR operation on the binary numbers 1010 and 0110
+        - 1100
+- Q20
+    - If we have a modified IEEE754 system with 1 sign bit, 3 biased exponent bits (so you would subtract 3 rather than 127 to get the exponent), and 4 mantissa bits, where all other standards are the same, what is the following number in decimal? **0 111 1111**
+        - Infinity
+- Q21
+    - If we have a modified IEEE754 system with 1 sign bit, 3 biased exponent bits ( so you would subtract 3 rather than 127 to get the exponent) and 4 mantissa bits, where all other standards are the same, what is the following number in scientific notation? **1 001 1100**
+        - -1.75\*10^-2
+- Q22
+    - **0 000 1010**
+        - .625\*2^-3
