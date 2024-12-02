@@ -1,9 +1,6 @@
 Comprehensive Exam Review
 
 Questions
-- Q1
-    - If this register file can store 56 registers with 2 bytes of data in each register, how many bits are needed for the **Read Data 1** port
-        - 
 - Q2
     - What is the decimal representation of the binary number 01101011?
         - 107
